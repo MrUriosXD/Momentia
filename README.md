@@ -10,23 +10,74 @@ El proyecto combina una **experiencia pública interactiva** con un sistema de a
 
 ## ✨ Características
 
-- 💌 **Experiencias románticas interactivas**
-- 🛠️ **Panel de administración estilo MyBB AdminCP**
-- 🗄️ **MySQL mediante PDO**
-- 📦 **Instalador propio**
-- 🔐 **Sistema de administración y autenticación**
-- 🌐 **Gestor de idiomas modular**
-- 📝 **Editor de contenidos dinámicos**
-- 🖼️ **Gestión de imágenes**
-- 🎵 **Gestión y reproducción de música**
-- 📤 **Subida de archivos**
-- 💖 **Carta y mensajes personalizados**
-- 📅 **Línea temporal de momentos**
-- ✨ **Razones y deseos personalizados**
-- 🔗 **Open Graph y Twitter Cards**
-- 📱 **Diseño responsive**
-- 💾 **Gestión de datos y configuración**
-- 🔄 **Herramientas de mantenimiento del sistema**
+<details>
+<summary>💖 Experiencia y contenido</summary>
+
+- 💌 Experiencias románticas interactivas
+- 📝 Editor de contenidos dinámicos
+- 💖 Carta y mensajes personalizados
+- 📅 Línea temporal de momentos
+- ✨ Razones y deseos personalizados
+- 📸 Fotografías y contenido visual
+- 💍 Propuesta final
+
+</details>
+
+<details>
+<summary>🛠️ Administración y CMS</summary>
+
+- 🛠️ Panel de administración estilo MyBB AdminCP
+- ⚙️ Configuración dinámica
+- 📝 Gestión de contenidos
+- 🔄 Herramientas de mantenimiento
+- 🔐 Sistema de administración y autenticación
+
+</details>
+
+<details>
+<summary>🌐 Idiomas</summary>
+
+- 🇪🇸 Español
+- 🇬🇧 English
+- ➕ Sistema extensible para nuevos idiomas
+- 🧩 Archivos de idioma independientes
+- 🔄 Cambio de idioma
+
+</details>
+
+<details>
+<summary>🖼️ Multimedia</summary>
+
+- 🖼️ Gestión de imágenes
+- 🎵 Gestión y reproducción de música
+- 📤 Subida de archivos
+- 🗂️ Gestión de recursos multimedia
+
+</details>
+
+<details>
+<summary>🗄️ Base de datos y sistema</summary>
+
+- 🗄️ MySQL / MariaDB
+- 🔌 PDO
+- 📦 Instalador propio
+- 💾 Gestión de datos y configuración
+- 🔗 API y operaciones del sistema
+
+</details>
+
+<details>
+<summary>🔐 Seguridad y compatibilidad</summary>
+
+- 🔑 Autenticación administrativa
+- 🔒 Contraseñas mediante hash
+- 🛡️ Acceso controlado al panel
+- 📦 Protección del instalador
+- 📤 Control de archivos subidos
+- 📱 Diseño responsive
+- 🔗 Open Graph y Twitter Cards
+
+</details>
 
 ---
 
